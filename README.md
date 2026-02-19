@@ -99,6 +99,32 @@ This project demonstrates skills in web scraping, data cleaning, and exploratory
 
 ---
 
+## 📊 Sample Visualizations
+
+### 1️⃣ Brand-wise Price Comparison
+![Brandwise Price](Brandwise_Price_Comparision.png)
+
+---
+
+### 2️⃣ Laptop Price Distribution
+![Price Distribution](Laptop_Price_Distribution.png)
+
+---
+
+### 3️⃣ Price vs RAM Analysis
+![Price vs RAM](Price_vs_Ram.png)
+
+---
+
+### 4️⃣ Ratings Distribution
+![Ratings Distribution](Ratings_Distribution.png)
+
+---
+
+### 5️⃣ Correlation Heatmap
+![Correlation Heatmap](Corr_of_Price_Ratings_Ram_Storage_Display.png)
+
+
 ## 💡 Future Enhancements
 
 - Build price prediction model using Machine Learning
